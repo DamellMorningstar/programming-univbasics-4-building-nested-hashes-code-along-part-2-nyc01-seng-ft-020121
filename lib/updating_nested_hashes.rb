@@ -24,6 +24,7 @@ def update_status
   # Code your solution here:
 if epic_tragedy[hero][2] == 'alive'
   epic_tragedy[hero][2] = 'dead'
+end
 
 
 
